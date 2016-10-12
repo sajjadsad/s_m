@@ -1,0 +1,118 @@
+[ Fri Oct  7 10:39:29 2016 ]=>  My Number [67369633] added SuperGroup
+ 
+[ Fri Oct  7 10:39:39 2016 ]=>  My Number [67369633] locked fwd
+ 
+[ Fri Oct  7 10:39:42 2016 ]=>  My Number [67369633] locked unsupported
+ 
+[ Fri Oct  7 10:39:45 2016 ]=>  My Number [67369633] set SuperGroup to: mute Photo
+ 
+[ Fri Oct  7 10:39:48 2016 ]=>  My Number [67369633] set SuperGroup to: mute Audio
+ 
+[ Fri Oct  7 10:39:50 2016 ]=>  My Number [67369633] set SuperGroup to: mute Documents
+ 
+[ Fri Oct  7 10:39:54 2016 ]=>  My Number [67369633] locked link posting 
+ 
+[ Fri Oct  7 10:39:58 2016 ]=>  My Number [67369633] set SuperGroup to: mute Gifs
+ 
+[ Fri Oct  7 11:01:01 2016 ]=>  My Number [67369633] deleted a message by reply
+ 
+[ Fri Oct  7 23:19:02 2016 ]=>  My Number [67369633] promoted mod: @@saef921[117869333] by reply
+ 
+[ Fri Oct  7 23:20:40 2016 ]=>  مہہشہہآ گہس [117869333] locked sticker posting
+ 
+[ Sat Oct  8 00:39:26 2016 ]=>  Aram sudo [176001217] promoted mod: @@lTshAkEl[209194833] by reply
+ 
+[ Sat Oct  8 00:39:29 2016 ]=>  My Number [67369633] promoted mod: @@lTshAkEl[209194833] by reply
+ 
+[ Sat Oct  8 00:39:39 2016 ]=>  Aram sudo [176001217] promoted mod: @@Aram_bot1[184852097] by reply
+ 
+[ Sat Oct  8 00:39:39 2016 ]=>  My Number [67369633] promoted mod: @@Aram_bot1[184852097] by reply
+ 
+[ Sat Oct  8 00:39:54 2016 ]=>  Aram sudo [176001217] locked fwd
+ 
+[ Sat Oct  8 00:39:59 2016 ]=>  Aram sudo [176001217] locked link posting 
+ 
+[ Sat Oct  8 00:40:04 2016 ]=>  Aram sudo [176001217] requested SuperGroup settings 
+ 
+[ Sat Oct  8 00:44:16 2016 ]=>  Aram sudo [176001217] demoted @Atoun_7
+ 
+[ Sat Oct  8 00:45:24 2016 ]=>  Aram sudo [176001217]  تنزيل ادمن: @@lIMyIl[67369633] by reply
+ 
+[ Sat Oct  8 00:46:53 2016 ]=>  Aram sudo [176001217] requested SuperGroup info
+ 
+[ Sat Oct  8 03:28:01 2016 ]=>  My Number [67369633] obtained id for: [189719279]
+ 
+[ Sat Oct  8 10:30:16 2016 ]=>  ابــ,ٰـن شــ,ٰـيــ,ٰـوخ مــ,ٰـتــ,ٰـهہـــ,ٰـزنــ,ٰـي  فــ,ٰـروخــ,ٰـ..... [290489741] requested SuperGroup mutelist
+ 
+[ Sat Oct  8 11:22:49 2016 ]=>  ابــ,ٰـن شــ,ٰـيــ,ٰـوخ مــ,ٰـتــ,ٰـهہـــ,ٰـزنــ,ٰـي  فــ,ٰـروخــ,ٰـ..... [290489741] deleted a message by reply
+ 
+[ Sat Oct  8 18:57:43 2016 ]=>  Aram sudo [176001217] locked link posting 
+ 
+[ Sat Oct  8 18:57:48 2016 ]=>  Aram sudo [176001217] locked fwd
+ 
+[ Sat Oct  8 18:57:55 2016 ]=>  Aram sudo [176001217] locked spam 
+ 
+[ Sat Oct  8 18:57:58 2016 ]=>  Aram sudo [176001217] unlocked member 
+ 
+[ Sat Oct  8 18:58:02 2016 ]=>  Aram sudo [176001217] locked bots
+ 
+[ Sat Oct  8 18:58:10 2016 ]=>  Aram sudo [176001217] locked sticker posting
+ 
+[ Sat Oct  8 20:48:27 2016 ]=>  My Number Admin [58492415] added to the SuperGroup by [ 67369633 ]
+ 
+[ Sun Oct  9 00:25:41 2016 ]=>  ابــ,ٰـن شــ,ٰـيــ,ٰـوخ مــ,ٰـتــ,ٰـهہـــ,ٰـزنــ,ٰـي  فــ,ٰـروخــ,ٰـ..... [290489741] set SuperGroup to: unmute Photo
+ 
+[ Sun Oct  9 02:53:57 2016 ]=>  Aram sudo [176001217] set SuperGroup to: mute Photo
+ 
+[ Sun Oct  9 06:42:51 2016 ]=>  My Number [67369633] locked username
+ 
+[ Sun Oct  9 06:42:55 2016 ]=>  My Number [67369633] deleted a message by reply
+ 
+[ Sun Oct  9 07:31:22 2016 ]=>  Aram sudo [176001217] locked cmd
+ 
+[ Sun Oct  9 07:31:26 2016 ]=>  Aram sudo [176001217] locked tag 
+ 
+[ Sun Oct  9 07:31:54 2016 ]=>  Aram sudo [176001217] promoted mod: @@lTshAkEl[209194833] by reply
+ 
+[ Sun Oct  9 07:32:08 2016 ]=>  Aram sudo [176001217] promoted mod: @@Aram_bot1[184852097] by reply
+ 
+[ Sun Oct  9 20:12:14 2016 ]=>  My Number [67369633] locked fwd
+ 
+[ Sun Oct  9 20:38:35 2016 ]=>  ابــ,ٰـن شــ,ٰـيــ,ٰـوخ مــ,ٰـتــ,ٰـهہـــ,ٰـزنــ,ٰـي  فــ,ٰـروخــ,ٰـ..... [290489741] deleted a message by reply
+ 
+[ Sun Oct  9 20:38:45 2016 ]=>  ابــ,ٰـن شــ,ٰـيــ,ٰـوخ مــ,ٰـتــ,ٰـهہـــ,ٰـزنــ,ٰـي  فــ,ٰـروخــ,ٰـ..... [290489741] deleted a message by reply
+ 
+[ Sun Oct  9 21:55:20 2016 ]=>  ابــ,ٰـن شــ,ٰـيــ,ٰـوخ مــ,ٰـتــ,ٰـهہـــ,ٰـزنــ,ٰـي  فــ,ٰـروخــ,ٰـ..... [290489741] deleted a message by reply
+ 
+[ Sun Oct  9 23:39:57 2016 ]=>  ابــ,ٰـن شــ,ٰـيــ,ٰـوخ مــ,ٰـتــ,ٰـهہـــ,ٰـزنــ,ٰـي  فــ,ٰـروخــ,ٰـ..... [290489741] deleted a message by reply
+ 
+[ Mon Oct 10 04:14:56 2016 ]=>  Aram sudo [176001217] locked tag 
+ 
+[ Mon Oct 10 04:15:07 2016 ]=>  Aram sudo [176001217] locked username
+ 
+[ Mon Oct 10 04:15:12 2016 ]=>  Aram sudo [176001217] locked cmd
+ 
+[ Mon Oct 10 04:15:21 2016 ]=>  Aram sudo [176001217] locked unsupported
+ 
+[ Mon Oct 10 19:36:45 2016 ]=>  My Number [67369633] locked fwd
+ 
+[ Mon Oct 10 22:06:45 2016 ]=>  حسين Admin [230220539] joined the SuperGroup via link
+ 
+[ Mon Oct 10 22:55:04 2016 ]=>  مہٌلُآكہِيہَهہہِ طہُِهہرَ⇇✿┇❥ .     • ما احـب اناقـش شخص 👇🏼     وقت ضيـقتـي 🔕    • لأن اسـلوبـي يكون واحد 🍃 مـن هالاثنـين ...     • يـا اسـلوب بـارد مسـتفز 🙂     يـا اعـصب واعـطيك🔔     • كـلام قـوي ينهـي العـلاقه كلهـا ؟ 😊 [260424796] requested group link [waiting]
+ 
+[ Mon Oct 10 22:56:00 2016 ]=>  مہٌلُآكہِيہَهہہِ طہُِهہرَ⇇✿┇❥ .     • ما احـب اناقـش شخص 👇🏼     وقت ضيـقتـي 🔕    • لأن اسـلوبـي يكون واحد 🍃 مـن هالاثنـين ...     • يـا اسـلوب بـارد مسـتفز 🙂     يـا اعـصب واعـطيك🔔     • كـلام قـوي ينهـي العـلاقه كلهـا ؟ 😊 Admin [260424796] joined the SuperGroup via link
+ 
+[ Tue Oct 11 05:06:40 2016 ]=>  Aram sudo [176001217] locked link posting 
+ 
+[ Wed Oct 12 12:49:43 2016 ]=>  ولاءالعبودي @wlaa1999 [266784545] kicked for #spam
+ 
+[ Wed Oct 12 13:14:15 2016 ]=>  مہہشہہآ گہس [117869333] locked sticker posting
+ 
+[ Wed Oct 12 13:34:04 2016 ]=>  مہہشہہآ گہس [117869333] set SuperGroup to: unmute Photo
+ 
+[ Wed Oct 12 13:35:38 2016 ]=>  مہہشہہآ گہس [117869333] set SuperGroup to: mute Photo
+ 
+[ Wed Oct 12 18:28:24 2016 ]=>  ⚔ڪًًًًًًًًًًًًًًًًًًًًـ͜☹͡ـٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍابـൠ͡ـًًًًًًًًًًًًًًًًًًًًۅ୭͜ۅ͜سٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍـ͡😈ـًًًًًًًًًًًًًًًًًًًًً͜ڪـٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍ͡ೂـ͜مًًًًًًًًًًًًًًًًًًًً⚔ [260697782] joined and Service Msg deleted (#spam name)
+ 
+[ Wed Oct 12 18:31:03 2016 ]=>  مغلق 🔰 فـہۣۙـ๋͜ℓـہۣۙـٓ﴿♚﴾ـะـٓايروـۣۙس 🔰 [254411251] joined and Service Msg deleted (#spam name)
+ 

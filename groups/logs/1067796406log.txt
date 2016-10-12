@@ -1,0 +1,42 @@
+[ Fri Oct  7 16:06:07 2016 ]=>  My Number [67369633] added SuperGroup
+ 
+[ Fri Oct  7 16:06:18 2016 ]=>  My Number [67369633] set: [125780575] as owner by reply
+ 
+[ Sat Oct  8 11:52:34 2016 ]=>  جوكر تلي [125780575] set SuperGroup to: mute Audio
+ 
+[ Sat Oct  8 11:53:51 2016 ]=>  جوكر تلي [125780575] promoted @moatz12
+ 
+[ Sat Oct  8 11:54:14 2016 ]=>  جوكر تلي [125780575] locked link posting 
+ 
+[ Sat Oct  8 11:54:19 2016 ]=>  جوكر تلي [125780575] set SuperGroup to: mute Photo
+ 
+[ Sat Oct  8 11:54:30 2016 ]=>  جوكر تلي [125780575] locked bots
+ 
+[ Sat Oct  8 11:54:51 2016 ]=>  جوكر تلي [125780575] set SuperGroup to: mute Gifs
+ 
+[ Sat Oct  8 11:54:59 2016 ]=>  جوكر تلي [125780575] locked sticker posting
+ 
+[ Sat Oct  8 11:55:17 2016 ]=>  جوكر تلي [125780575] locked spam 
+ 
+[ Sat Oct  8 11:55:27 2016 ]=>  جوكر تلي [125780575] set SuperGroup to: mute Video
+ 
+[ Sat Oct  8 11:56:03 2016 ]=>  جوكر تلي [125780575] set flood to [5]
+ 
+[ Sat Oct  8 12:02:01 2016 ]=>  جوكر تلي [125780575] promoted @Q_Q17
+ 
+[ Sun Oct  9 17:40:02 2016 ]=>  جوكر تلي [125780575] promoted @Skr1234
+ 
+[ Sun Oct  9 17:40:14 2016 ]=>  جوكر تلي [125780575] promoted @moatz12
+ 
+[ Sun Oct  9 17:47:28 2016 ]=>  جوكر تلي [125780575] locked link posting 
+ 
+[ Sun Oct  9 17:47:39 2016 ]=>  جوكر تلي [125780575] locked fwd
+ 
+[ Sun Oct  9 17:47:51 2016 ]=>  جوكر تلي [125780575] locked sticker posting
+ 
+[ Sun Oct  9 17:49:15 2016 ]=>  جوكر تلي [125780575] locked bots
+ 
+[ Sun Oct  9 17:49:42 2016 ]=>  ســٰ̲ــنـــٰٰٰٖہـيـوٰ୭ڕيـٰٰٰٖہـتُـا✤┊😻💗 [187503588] joined and Service Msg deleted (#spam name)
+ 
+[ Sun Oct  9 17:50:47 2016 ]=>  بّـعَــــــــــــــدُيشّـ [237692460] unlocked member 
+ 
